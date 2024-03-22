@@ -1,0 +1,4 @@
+Enter array elements:
+ Matrix Elements
+6422400 4201168 
+4201056 4199120 
